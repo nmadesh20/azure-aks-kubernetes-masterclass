@@ -32,7 +32,7 @@ kubectl get pods --namespace ingress-basic
 
 ## Step-06: Review or Create Cluster Issuer Kubernetes Manifest
 ### Review Cluster Issuer Kubernetes Manifest
-- Create or Review Cert Manager Cluster Issuer Kubernetes Manigest
+- Create or Review Cert Manager Cluster Issuer Kubernetes Manifest
 ```yml
 apiVersion: cert-manager.io/v1alpha2
 kind: ClusterIssuer
